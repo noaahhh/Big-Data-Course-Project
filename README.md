@@ -1,5 +1,5 @@
 ## Most used baby names all over the world 
-![](most_used_baby_names.png)
+![](most-used_baby-names.png)
 ## Least used baby names  all over the world 
-![](least_used_names.png)
+![](least-used-names.png)
 
