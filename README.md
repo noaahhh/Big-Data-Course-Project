@@ -1,4 +1,3 @@
 # Popular-baby-names
-#### Most used baby names     |  #### Least used baby names
-:----------------------------:|:-------------------------:
-![](most-used-baby-names.png) | ![](least-used-names.png)
+
+![all-text-1](most-used-baby-names.png "Most used baby names ") ![all-text-2](least-used-names.png "Least used baby names")
